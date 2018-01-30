@@ -1,2 +1,2 @@
-# zebi-ico
-ZCO Token creation
+Zebi Crowd sale
+
