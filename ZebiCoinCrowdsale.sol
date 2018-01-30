@@ -11,7 +11,6 @@ contract ZebiCoinCrowdsale is Crowdsale {
   }
 
   // creates the token to be sold.
-  // override this method to have crowdsale of a specific MintableToken token.
   function createTokenContract() internal returns (MintableToken) {
     return new ZebiCoin();
   }
