@@ -1,2 +1,2 @@
-#Zebi Crowd sale
-ZCO Toekn is created using library OpenZeppelin v1.6.0
+# Zebi Crowd sale
+ZCO Token crowd sale is created with library OpenZeppelin v1.6.0
